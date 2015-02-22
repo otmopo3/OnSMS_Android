@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, OnSMSTestActivity!</string>
+    <string name="app_name">OnSMSTest</string>
+    <string name="open_test_activity">PostSmsTest</string>
+    <string name="update_smsList">Update Sms List</string>
+    <string name="sms_list_activity">Sms List</string>
+    <string name="dummy_sms_text">Some dummy sms text. Can anybody guide me on how to work with Android Listview. I want to identify the total no of items/options available in the listview. As per the screenshot,</string>
+    <string name="send_test_message">Send Test Message</string>
+
+</resources>
